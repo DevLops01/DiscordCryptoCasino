@@ -10,7 +10,7 @@ chardet==3.0.4
 colorama==0.4.1
 dataclasses==0.6
 discord.py==1.2.3
-ecdsa==0.13
+ecdsa==0.13.3
 forever==0.8.26
 get==2019.4.13
 gevent==1.4.0
